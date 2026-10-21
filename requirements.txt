@@ -5,3 +5,5 @@ aiosqlite
 aiogram
 pydantic
 python-dotenv
+greenlet
+sqlalchemy[asyncio]
